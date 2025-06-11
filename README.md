@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohan Dhanasekaran</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- I am completed a Project. [Seckoonnect Dashboard](NIl)
+- I am completed a Project. **Seckoonnect Dashboard**
 
 - 🌱 I’m currently learning **Mern Stack**
 
